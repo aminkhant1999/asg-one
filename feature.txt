@@ -1,1 +1,6 @@
 This is a new feature
+
+
+This is edited by Khine Nyein Aung.
+
+This edit is after setting of rules for pull request. 
